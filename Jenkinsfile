@@ -7,6 +7,7 @@ pipeline {
     triggers {
         pollSCM '* * * * *'
     }
+    d;fk;ladskf
     stages {
         stage('Build') {
             steps {
